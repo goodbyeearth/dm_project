@@ -2,3 +2,4 @@ git test...
 first line
 second line
 third line
+git tracks changes.
